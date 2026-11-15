@@ -1,4 +1,4 @@
-﻿# BentoMenu
+# BentoMenu
 
 A container-menu framework for Minecraft servers. Menus live in YAML, so server owners don't need to write code. When you need more than YAML can give, plugin developers can hook in through the Java API or the Kotlin DSL.
 

@@ -1,4 +1,4 @@
-﻿# BentoMenu
+# BentoMenu
 
 一个给 Minecraft 服务器用的容器菜单框架。菜单写在 YAML 里，服主不用写代码；需要更复杂的东西时，插件开发者可以用 Java API 或 Kotlin DSL 接进来。
 
